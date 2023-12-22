@@ -1,0 +1,3 @@
+install(error): /nfs/home/mschlue2/datalad/dataset_collections/dataset_collections/test (dataset) [Failed to clone from any candidate source URL. Encountered errors per each url were:
+- test
+  CommandError: 'git -c diff.ignoreSubmodules=none -c core.quotepath=false clone --progress test /nfs/home/mschlue2/datalad/dataset_collections/dataset_collections/test' failed with exitcode 128 [err: 'fatal: repository 'test' does not exist']]
